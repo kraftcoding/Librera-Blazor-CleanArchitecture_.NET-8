@@ -1,4 +1,3 @@
-
 # Clean Architecture - Blazor Web App with .NET 8 using Entity Framework and Repository Pattern
 This is a project sample for **Blazor Wb App** with **.NET 8** following **clean architecture** design pattern using entity framework core and **repository pattern**. This is a ready-to-use solution with example CRUD. There is a complete CRUD example for App Setting.
 
