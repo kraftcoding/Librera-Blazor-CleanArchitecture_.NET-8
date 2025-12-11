@@ -12,5 +12,5 @@ This is a project sample for **Blazor Wb App** with **.NET 8** following **clean
 - Dependency Injection
 - Microsoft SQL Server Database
 - Custom Logs Capture Module
-- - Authentication and Authorization - Identity
+-  Authentication and Authorization - Identity
 
