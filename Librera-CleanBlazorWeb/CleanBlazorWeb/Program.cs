@@ -64,7 +64,7 @@ namespace CleanBlazorWeb
 
             app.MapRazorComponents<App>()
                 .AddInteractiveServerRenderMode()
-                .AddInteractiveWebAssemblyRenderMode()
+                .AddInteractiveWebAssemblyRenderMode()                
                 .AddAdditionalAssemblies(typeof(Librera.CleanBlazorWeb.Client._Imports).Assembly);
 
             // Add additional endpoints required by the Identity /Account Razor components.
